@@ -1,8 +1,8 @@
 name: BungeePortals
-version: 1.1
+version: 1.2
 description: Create portals of any shape or size with WorldEdit, for BungeeCord.
 author: YoFuzzy3
-main: com.fuzzoland.BungeePortals.BungeePortals
+main: net.yofuzzy3.BungeePortals.BungeePortals
 dev-url: http://www.spigotmc.org/resources/bungeeportals.19/
 softdepend: [WorldEdit]
 
